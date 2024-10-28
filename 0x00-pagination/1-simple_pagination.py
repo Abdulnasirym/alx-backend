@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+"""A python module"""
+
 import csv
 import math
 from typing import List
