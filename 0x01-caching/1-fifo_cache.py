@@ -24,4 +24,3 @@ class FIFOCache(BaseCaching):
     def get(self, key):
         """geth method"""
         return self.cache_data.get(key, None)
-
